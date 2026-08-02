@@ -1,0 +1,14 @@
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\testProject.AssemblyInfoInputs.cache
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\testProject.AssemblyInfo.cs
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\testProject.csproj.CoreCompileInputs.cache
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\bin\Debug\net10.0\testProject.exe
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\bin\Debug\net10.0\testProject.deps.json
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\bin\Debug\net10.0\testProject.runtimeconfig.json
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\bin\Debug\net10.0\testProject.dll
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\bin\Debug\net10.0\testProject.pdb
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\testProject.dll
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\refint\testProject.dll
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\testProject.pdb
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\testProject.genruntimeconfig.cache
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\ref\testProject.dll
