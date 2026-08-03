@@ -12,3 +12,4 @@ C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\refint\te
 C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\testProject.pdb
 C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\testProject.genruntimeconfig.cache
 C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\ref\testProject.dll
+C:\Users\Kaif\OneDrive\Desktop\csproject\testProject\obj\Debug\net10.0\testProject.sourcelink.json
